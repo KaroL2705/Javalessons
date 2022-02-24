@@ -5,7 +5,7 @@ public class RzutowanieZmiennych {
 
         System.out.println(a / (double)b);
 
-        int wynik1 = (double)a / d;
+        int wynik1 = (int) (a / d);
         double wynik2= c/d;
 
         System.out.println(wynik1);
